@@ -36,11 +36,11 @@ Young professional skilled in information management with experience in data res
 
 ## Project Portfolio
 
-**Website Development**
-**Mobile Development**
-**Geographic Information System (GIS)**
-**Dashboard Development**
-**Cloud Computing**
+- **Website Development**
+- **Mobile Development**
+- **Geographic Information System (GIS)**
+- **Dashboard Development**
+- **Cloud Computing**
 
 ---
 
